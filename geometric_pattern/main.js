@@ -31,6 +31,8 @@ function draw() {
     
     
     while (x <= width) {
+      fill(color(rVal,gVal,bVal));
+      stroke(color(rVal,gVal,bVal));
       ellipse(x, y, circleDiameter, circleDiameter);
       x = x + circleDiameter;
     }
@@ -44,5 +46,4 @@ function draw() {
   }
 }
 
-fill(color(rVal,gVal,bVal);
-stroke(color(rVal,gVal,bVal));
+
