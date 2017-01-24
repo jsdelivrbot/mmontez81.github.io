@@ -10,7 +10,7 @@ var bVal;
 function setup() {
     createCanvas(480, 600);
     
-    frameRate(5);
+    frameRate(81);
     
     circleDiameter = width/NUM_CIRCLES;
     circleRadius = circleDiameter/2;
