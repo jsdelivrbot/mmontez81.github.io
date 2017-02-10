@@ -6,8 +6,8 @@ var enemyImage;
 var backgroundImage;
 
 function preload() {
-  playerImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/N5uCbDu.png");
-  enemyImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/OdL0XPt.png");
+  playerImage = loadImage("wadofcash.jpg");
+  enemyImage = loadImage("rick.jpg");
   backgroundImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/aKQOg3G.png");
 }
 
